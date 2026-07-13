@@ -1,0 +1,6 @@
+{
+  "version": "2.2.0",
+  "sha256": "3e5d0ce2c19c334fb1ae6e8958ccbe5feb153c89b1d3649e01326c609ba0c205",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.2.0/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.2.0:\n- Tela de abertura nova com a identidade do Pulse.\n- A IA agora recebe a forma de onda como serie numerica dos dois canais (alem das medicoes), para um diagnostico mais preciso.\n- A imagem do grafico virou opcional: marque \"Anexar imagem do grafico\" quando quiser envia-la; por padrao a analise fica mais rapida.\n- Atualizacao automatica com tela de progresso; o app reabre sozinho ao terminar.\n- Melhorias de desempenho no desenho do grafico."
+}
