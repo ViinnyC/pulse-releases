@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "sha256": "46da308932db6c7720a6b66c357da05e339e3479d693f60f1772bccade1ab300",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.2.1/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.2.1:\n- A caixa \"Pergunte a IA\" agora envia o contexto do sinal (medicoes + forma de onda) e a imagem, quando marcada, em qualquer pergunta.\n- Correcao: em analises com sinal capturado a IA as vezes respondia vazio; agora retorna o diagnostico completo."
+  "version": "2.3.0",
+  "sha256": "a333629cdbb2b740539b8d8eda62a2d8e543ae062894b5be0b0556a4c56d5522",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.0/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.0:\n- O diagnostico por IA foi REMOVIDO do Pulse. O painel \"Diagnostico IA\" e o menu Ferramentas > \"Configurar IA...\" nao existem mais, e o codigo de licenca da IA deixou de ser usado.\n- O diagnostico por preset continua funcionando normalmente: ele e local, nao depende de internet e nao mudou.\n- Todo o resto segue igual: captura, trigger, medicoes, cursores, presets, gravacao, replay com comparacao A x B, exportes em CSV/PNG/PDF e calibracao.\n- O app ficou mais leve e nao faz mais nenhuma conexao com a nuvem, exceto a verificacao de atualizacao."
 }
