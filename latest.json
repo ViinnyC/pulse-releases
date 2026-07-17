@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "sha256": "1e54c9d89673b59f1692228eba8b9e7f30becba14c8aceaa6dc4087b772e4da3",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.2/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.2:\n- Atualizacao automatica: ao encontrar uma versao nova, o Pulse baixa, confere a integridade (SHA-256), instala em silencio e reabre sozinho — sem precisar clicar em nada.\n- Se voce estiver capturando ao vivo ou gravando na hora do update, o app NAO fecha no meio: ele espera voce ficar ocioso e so entao instala.\n- Ao reabrir ja atualizado, o Pulse mostra estas novidades numa janela.\n- Todo o resto segue igual: captura, trigger, medicoes, cursores, presets, gravacao, replay A x B, exportes e calibracao."
+  "version": "2.3.3",
+  "sha256": "6c5d6b4eb2c310408ab99942b9cce6d011847fa5f4a10d3b92d6b3cb16a7733e",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.3/Pulse_Setup.exe",
+  "notes": "Versao de teste (2.3.3) para provar o auto-update de ponta a ponta.\n\nSe voce esta lendo isto numa janela que abriu sozinha, deu certo: o Pulse encontrou a versao nova, baixou, conferiu a integridade (SHA-256), instalou em silencio, reabriu sozinho e mostrou este log — sem voce clicar em nada.\n\nSem mudanca funcional frente a 2.3.2."
 }
