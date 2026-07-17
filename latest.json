@@ -1,6 +1,6 @@
 {
-  "version": "2.3.4",
-  "sha256": "85cb216b53e8869a7790305c3301708ec72e3bc285c89389f5cebc2af9e3deba",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.4/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.4:\n- CORRIGIDO: o app nao trava mais na splash depois de atualizar. O aviso de \"atualizado\" era aberto por tras da splash e prendia a abertura.\n- Agora a atualizacao tem uma janela propria de status: ela aparece depois da splash e o Pulse so abre quando voce fecha essa janela.\n- Splash art: as duas ondas do osciloscopio foram refeitas — antes se cruzavam e viravam um borrao; agora sao dois tracos limpos e separados."
+  "version": "2.3.5",
+  "sha256": "c32e113c3a7667661010cef71961ed8ae0d3d62e686c4cd607905f14b5b91f99",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.5/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.5:\n- A tela de \"atualizado\" ganhou cara de Pulse: dois tracos de osciloscopio animados, brilho de acento e as fontes do app — no lugar da janelinha cinza do Windows.\n- Botao \"Abrir Pulse\" para entrar no app quando terminar de ler.\n- Esta janela que voce esta vendo e a nova tela."
 }
