@@ -1,6 +1,6 @@
 {
-  "version": "2.3.3",
-  "sha256": "6c5d6b4eb2c310408ab99942b9cce6d011847fa5f4a10d3b92d6b3cb16a7733e",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.3/Pulse_Setup.exe",
-  "notes": "Versao de teste (2.3.3) para provar o auto-update de ponta a ponta.\n\nSe voce esta lendo isto numa janela que abriu sozinha, deu certo: o Pulse encontrou a versao nova, baixou, conferiu a integridade (SHA-256), instalou em silencio, reabriu sozinho e mostrou este log — sem voce clicar em nada.\n\nSem mudanca funcional frente a 2.3.2."
+  "version": "2.3.4",
+  "sha256": "85cb216b53e8869a7790305c3301708ec72e3bc285c89389f5cebc2af9e3deba",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.4/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.4:\n- CORRIGIDO: o app nao trava mais na splash depois de atualizar. O aviso de \"atualizado\" era aberto por tras da splash e prendia a abertura.\n- Agora a atualizacao tem uma janela propria de status: ela aparece depois da splash e o Pulse so abre quando voce fecha essa janela.\n- Splash art: as duas ondas do osciloscopio foram refeitas — antes se cruzavam e viravam um borrao; agora sao dois tracos limpos e separados."
 }
