@@ -1,6 +1,6 @@
 {
-  "version": "2.3.5",
-  "sha256": "c32e113c3a7667661010cef71961ed8ae0d3d62e686c4cd607905f14b5b91f99",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.5/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.5:\n- A tela de \"atualizado\" ganhou cara de Pulse: dois tracos de osciloscopio animados, brilho de acento e as fontes do app — no lugar da janelinha cinza do Windows.\n- Botao \"Abrir Pulse\" para entrar no app quando terminar de ler.\n- Esta janela que voce esta vendo e a nova tela."
+  "version": "2.3.6",
+  "sha256": "a932ece7cfe4f3794f036ccac6e9d71046121b2b77eeaf089d0b5f04d8a8bac6",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.6/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.6:\n- Revisao completa do app: 10 defeitos corrigidos (zoom que invertia com rolagem rapida, confirmacao de gravacao que sumia, calibracao aceitando ponta invertida, entre outros).\n- Gravacoes .vgr adulteradas agora sao recusadas em vez de mostrarem tensoes erradas.\n- Atualizador mais seguro: so aceita https, o instalador fica travado contra troca durante a verificacao e restos de downloads antigos sao limpos.\n- Fechar o app com o hardware travado nao congela mais a janela.\n- Calibracao avisa quando a ponta esta solta ou saturada.\n- Sem mudanca visual."
 }
