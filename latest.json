@@ -1,6 +1,6 @@
 {
-  "version": "2.3.8",
-  "sha256": "fa18582e71ab9ac535289d35deaede91a1022c43feee1ed94203a147751d1a9d",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.8/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.8:\n- Nada mais abre escondido atras da tela de abertura: a janela de atualizacao agora espera o app aparecer (uma tela de cada vez).\n- Fundo novo com desenho tecnico automotivo (vela de ignicao, bico injetor, engrenagem) na tela do osciloscopio e no fundo da janela. Liga/desliga em Exibir > Blueprint (desenho tecnico).\n- Botoes de aumentar/diminuir dos campos do Trigger e da calibracao agora com o visual do tema, no lugar das setas cinzas do Windows."
+  "version": "2.3.9",
+  "sha256": "59efc5ebd81a8e994ce465ec722fdde96f63ea6c73e8b9d12d6f443e9c4d62a0",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.9/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.9:\n- O desenho tecnico (blueprint) agora aparece de verdade: composicao com bico injetor, vela de ignicao e engrenagem na area livre do painel de Medicoes, mais forte tambem na moldura da janela.\n- A tela dos sinais ficou totalmente limpa — desenho nenhum atras da onda, como pedido.\n- Liga/desliga continua em Exibir > Blueprint (desenho tecnico)."
 }
