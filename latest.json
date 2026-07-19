@@ -1,6 +1,6 @@
 {
-  "version": "2.3.6",
-  "sha256": "a932ece7cfe4f3794f036ccac6e9d71046121b2b77eeaf089d0b5f04d8a8bac6",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.6/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.6:\n- Revisao completa do app: 10 defeitos corrigidos (zoom que invertia com rolagem rapida, confirmacao de gravacao que sumia, calibracao aceitando ponta invertida, entre outros).\n- Gravacoes .vgr adulteradas agora sao recusadas em vez de mostrarem tensoes erradas.\n- Atualizador mais seguro: so aceita https, o instalador fica travado contra troca durante a verificacao e restos de downloads antigos sao limpos.\n- Fechar o app com o hardware travado nao congela mais a janela.\n- Calibracao avisa quando a ponta esta solta ou saturada.\n- Sem mudanca visual."
+  "version": "2.3.7",
+  "sha256": "bf1f0d8803f5d3f6de17a5ff87e09a54d02e4b19837bb4b03c174fd08d22c881",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.7/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.3.7:\n- Splash de abertura nova: ondas de osciloscopio automotivo de verdade (ignicao e injetor) no lugar do borrao torto.\n- Visual de instrumento: caixas, botoes, campos e pilulas com cantos retos em toda a interface.\n- Instalador agora gerado de compilacao limpa (a 2.3.6 tinha saido com uma peca visual antiga dentro)."
 }
