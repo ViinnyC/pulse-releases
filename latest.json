@@ -1,6 +1,6 @@
 {
-  "version": "2.3.9",
-  "sha256": "59efc5ebd81a8e994ce465ec722fdde96f63ea6c73e8b9d12d6f443e9c4d62a0",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.3.9/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.3.9:\n- O desenho tecnico (blueprint) agora aparece de verdade: composicao com bico injetor, vela de ignicao e engrenagem na area livre do painel de Medicoes, mais forte tambem na moldura da janela.\n- A tela dos sinais ficou totalmente limpa — desenho nenhum atras da onda, como pedido.\n- Liga/desliga continua em Exibir > Blueprint (desenho tecnico)."
+  "version": "2.4.0",
+  "sha256": "e6e43d7fa9b6e6e6a831f1b579996acbc380b2f919c2eaee325c962a93f068a4",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.4.0/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.4.0:\n- Conexao com o hardware corrigida: o Pulse agora recebe os dados do STM32 e desenha a onda ao vivo. Em alguns PCs a porta abria mas nao chegava sinal; agora o app le a porta de forma confiavel.\n- Firmware: a transmissao USB nao trava mais logo apos ligar a placa (para quem reflashar)."
 }
