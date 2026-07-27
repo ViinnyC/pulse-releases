@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "sha256": "e6e43d7fa9b6e6e6a831f1b579996acbc380b2f919c2eaee325c962a93f068a4",
-  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.4.0/Pulse_Setup.exe",
-  "notes": "Novidades da versao 2.4.0:\n- Conexao com o hardware corrigida: o Pulse agora recebe os dados do STM32 e desenha a onda ao vivo. Em alguns PCs a porta abria mas nao chegava sinal; agora o app le a porta de forma confiavel.\n- Firmware: a transmissao USB nao trava mais logo apos ligar a placa (para quem reflashar)."
+  "version": "2.5.0",
+  "sha256": "2a276b3a48ae9bbaafbba7ca547577197fcf0a03f81d0b373d86a87a7ade75cc",
+  "url": "https://github.com/ViinnyC/pulse-releases/releases/download/v2.5.0/Pulse_Setup.exe",
+  "notes": "Novidades da versao 2.5.0:\n- A tela do osciloscopio ficou quase 4x mais leve. O efeito de linhas do tubo estava custando 68% de todo o trabalho de pintura, para um efeito puramente visual. O visual e identico e o gasto de processador na tela caiu de 17,8% para 4,5% de um nucleo.\n- Os contadores da barra agora medem a captura, e nao a conexao. Aqueles numeros altos de perdidos/resync/drop que apareciam logo de cara eram lixo do instante em que a porta abre, e ficavam na tela a captura inteira. Medido contra o hardware: de 21.167 perdidos para zero, inclusive com o PC sob carga pesada.\n- Precisao da tensao: o app passa a corrigir a variacao da alimentacao da placa, que muda com a temperatura. So tem efeito depois de gravar o firmware novo.\n- Ha firmware novo para gravar a mao (fila de envio de 4 para 32 quadros, medicao da propria alimentacao, e o dispositivo passa a aparecer como Pulse Scope). O passo a passo esta em firmware/README.md."
 }
